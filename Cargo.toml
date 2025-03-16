@@ -1,0 +1,11 @@
+[package]
+name = "permutation_compression"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+bitvec = "1.0.1"
+num-bigint = "0.4.6"
+
+[dev-dependencies]
+rand = "0.9.0"
